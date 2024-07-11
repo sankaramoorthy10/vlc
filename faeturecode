@@ -1,0 +1,17 @@
+Share your themes
+
+If you made a theme, please share it with the community here.
+Screenshot + Download link (github, google drive, etc...)
+How to save a theme
+
+Navigate to the theme file, it should be a xaml file type on GitHub. Once you are viewing the file content click "Raw" on the top right corner and Ctrl +S to save the theme (make sure it's saved with .xaml extension).
+
+Save the theme in your user data directory, usually in ~/AppData/Roaming/FlowLauncher/Themes directory. If not sure, from flow type flow launcher userdata then navigate to the Themes directory.
+
+Select your new theme via flow's theme section.
+
+Additional
+
+We are planning a theme gallery menu on the website in the future, but is of low priority at this stage. If you've posted your themes here, they will be included when it's completed.
+Since I often modify the design, there may be changes/new additions to the theme structure, which I'll mention these details here.
+Create your own theme
